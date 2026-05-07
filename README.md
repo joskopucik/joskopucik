@@ -1,23 +1,35 @@
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joskopucik&show_icons=true&hide_border=true&border_radius=6&bg_color=fff&title_color=000&text_color=000&icon_color=000"
+    srcset="https://ezekiel-gray.vercel.app/api/stats?username=joskopucik&theme=light&t=1778195778245"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joskopucik&show_icons=true&hide_border=true&border_radius=6&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff"
+    srcset="https://ezekiel-gray.vercel.app/api/stats?username=joskopucik&theme=dark&t=1778195778245"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=joskopucik&show_icons=true&hide_border=true&border_radius=6&bg_color=fff&title_color=000&text_color=000&icon_color=000" alt="Josko's GitHub Stats" />
+  <img src="https://ezekiel-gray.vercel.app/api/stats?username=joskopucik&theme=dark&t=1778195778245" alt="Stats Card" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joskopucik&layout=donut&hide_border=true&border_radius=6&bg_color=fff&title_color=000&text_color=000&icon_color=000"
+    srcset="https://ezekiel-gray.vercel.app/api/top-langs?username=joskopucik&theme=light&t=1778195778245"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joskopucik&layout=donut&hide_border=true&border_radius=6&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff"
+    srcset="https://ezekiel-gray.vercel.app/api/top-langs?username=joskopucik&theme=dark&t=1778195778245"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joskopucik&layout=donut&hide_border=true&border_radius=6&bg_color=fff&title_color=000&text_color=000&icon_color=000" alt="Josko's Top Languages" />
+  <img src="https://ezekiel-gray.vercel.app/api/top-langs?username=joskopucik&theme=dark&t=1778195778245" alt="Top Languages" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://ezekiel-gray.vercel.app/api/graph?username=joskopucik&theme=light&t=1778195778245"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://ezekiel-gray.vercel.app/api/graph?username=joskopucik&theme=dark&t=1778195778245"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://ezekiel-gray.vercel.app/api/graph?username=joskopucik&theme=dark&t=1778195778245" alt="Activity Graph" />
 </picture>
